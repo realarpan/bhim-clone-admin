@@ -1,4 +1,4 @@
-# Complete Setup Guide for BHIM Clone Admin App
+# Complete Setup Guide for BHEEM Clone Admin App
 
 ## Quick Start Instructions
 
